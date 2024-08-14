@@ -86,7 +86,7 @@ N entre NFDefeito e Peças);
 - **Cliente**: *idclientecpf*
 - **Funcionários:** *idfuncionarios*
 - **Veículo:** *idplaca*
-- **Marca:** *idmarca**
+- **Marca:** *idmarca*
 - **Modelo:** *idmodelo*, *marca_idmarca*
 - **ContratoLocacao**: *idreserva*
 - **Checklist**: *idchecklist, reserva_idreserva*
