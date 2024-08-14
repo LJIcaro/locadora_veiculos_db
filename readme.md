@@ -85,13 +85,13 @@ N entre NFDefeito e Peças);
 
 - **Cliente**: *idclientecpf*
 - **Funcionários:** *idfuncionarios*
-- **Veículo:** *idplaca
+- **Veículo:** *idplaca*
 - **Marca:** *idmarca**
 - **Modelo:** *idmodelo*, *marca_idmarca*
 - **ContratoLocacao**: *idreserva*
 - **Checklist**: *idchecklist, reserva_idreserva*
 - **Defeitos**: *iddefeitos*
-- **NFDefeito**:* defeitos_iddefeitos*
+- **NFDefeito**: *defeitos_iddefeitos*
 - **Peças**: *idpecas*, *nfdefeito_defeitos_iddefeitos*
 
 ***Secundárias:***
